@@ -1,4 +1,4 @@
-# Machine Learning Studies for Human Action Recognition
+# Machine Learning Studies for Human Action Recognition (dataset from aiplanet.com)
 
 ## Dataset distribution:
 1. sitting: 840
