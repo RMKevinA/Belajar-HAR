@@ -1,0 +1,5 @@
+Source:
+https://aiplanet.com/challenges/233/data-sprint-76-human-activity-recognition-233/data
+
+Download dataset:
+https://dphi-live.s3.eu-west-1.amazonaws.com/dataset/Human+Action+Recognition-20220526T101201Z-001.zip
