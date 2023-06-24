@@ -1,2 +1,2 @@
 # Belajar-HAR
-Penelitian untuk luaran MBKM
+Machine Learning studies for Human Action Recognition
