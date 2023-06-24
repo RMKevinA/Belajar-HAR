@@ -18,4 +18,4 @@
 15. texting: 840
 
 ## Method: Transfer Learning
-Using VGGNet-16 pre-trained model by Zisserman A. dan Simonyan K. and adds some Dense layers with outputs 15 labels.
+Using VGGNet-16 pre-trained model by Zisserman A. and Simonyan K. with adding some Dense layers with outputs 15 labels.
